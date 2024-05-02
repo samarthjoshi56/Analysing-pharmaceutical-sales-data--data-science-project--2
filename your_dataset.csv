@@ -1,0 +1,62 @@
+Date,Product_ID,Quantity_Sold,Region,Country,City,Customer_Type
+2024-05-01,P123,100,North America,USA,New York,Individual
+2024-05-02,A456,50,Europe,UK,London,Pharmacy
+2024-05-03,B789,80,Asia,Japan,Tokyo,Hospital
+2024-05-04,C101,70,Europe,Germany,Berlin,Hospital
+2024-05-05,D202,90,North America,Canada,Toronto,Individual
+2024-05-06,E303,60,Asia,China,Beijing,Pharmacy
+2024-05-07,F404,110,Europe,France,Paris,Hospital
+2024-05-08,G505,120,North America,USA,Los Angeles,Individual
+2024-05-09,H606,80,Europe,UK,London,Hospital
+2024-05-10,I707,65,Asia,India,Delhi,Pharmacy
+2024-05-11,J808,85,Europe,Italy,Rome,Individual
+2024-05-12,K909,75,North America,Canada,Montreal,Pharmacy
+2024-05-13,L010,55,Asia,China,Shanghai,Hospital
+2024-05-14,M111,95,Europe,Spain,Madrid,Individual
+2024-05-15,N212,110,North America,USA,Chicago,Hospital
+2024-05-16,O313,70,Asia,Japan,Osaka,Pharmacy
+2024-05-17,P414,40,Europe,UK,Manchester,Hospital
+2024-05-18,Q515,50,North America,USA,San Francisco,Individual
+2024-05-19,R616,85,Europe,Germany,Munich,Pharmacy
+2024-05-20,S717,95,Asia,India,Mumbai,Hospital
+2024-05-21,T818,65,Europe,France,Lyon,Individual
+2024-05-22,U919,75,North America,Canada,Vancouver,Pharmacy
+2024-05-23,V020,80,Asia,China,Beijing,Hospital
+2024-05-24,W121,100,Europe,Italy,Milan,Individual
+2024-05-25,X222,110,North America,USA,Los Angeles,Pharmacy
+2024-05-26,Y323,120,Asia,Japan,Tokyo,Hospital
+2024-05-27,Z424,70,Europe,UK,London,Individual
+2024-05-28,A525,90,North America,Canada,Toronto,Pharmacy
+2024-05-29,B626,100,Asia,China,Shanghai,Hospital
+2024-05-30,C727,80,Europe,Germany,Berlin,Individual
+2024-05-31,D828,85,North America,USA,New York,Pharmacy
+2024-06-01,E929,65,Asia,India,Delhi,Hospital
+2024-06-02,F030,75,Europe,France,Paris,Individual
+2024-06-03,G131,110,North America,USA,Los Angeles,Pharmacy
+2024-06-04,H232,70,Asia,Japan,Osaka,Hospital
+2024-06-05,I333,80,Europe,UK,Manchester,Individual
+2024-06-06,J434,95,North America,USA,San Francisco,Pharmacy
+2024-06-07,K535,85,Asia,China,Beijing,Hospital
+2024-06-08,L636,120,Europe,Italy,Rome,Individual
+2024-06-09,M737,70,North America,Canada,Montreal,Pharmacy
+2024-06-10,N838,60,Asia,China,Shanghai,Hospital
+2024-06-11,O939,110,Europe,Spain,Madrid,Individual
+2024-06-12,P040,100,North America,USA,Chicago,Pharmacy
+2024-06-13,Q141,85,Asia,Japan,Osaka,Hospital
+2024-06-14,R242,90,Europe,UK,Manchester,Individual
+2024-06-15,S343,75,North America,USA,San Francisco,Pharmacy
+2024-06-16,T444,65,Asia,India,Mumbai,Hospital
+2024-06-17,U545,80,Europe,Germany,Berlin,Individual
+2024-06-18,V646,100,North America,Canada,Toronto,Pharmacy
+2024-06-19,W747,90,Asia,China,Shanghai,Hospital
+2024-06-20,X848,110,Europe,France,Paris,Individual
+2024-06-21,Y949,70,North America,USA,Los Angeles,Pharmacy
+2024-06-22,Z050,120,Asia,Japan,Tokyo,Hospital
+2024-06-23,A151,80,Europe,UK,London,Individual
+2024-06-24,B252,95,North America,Canada,Montreal,Pharmacy
+2024-06-25,C353,85,Asia,China,Beijing,Hospital
+2024-06-26,D454,70,Europe,Italy,Rome,Individual
+2024-06-27,E555,100,North America,USA,Chicago,Pharmacy
+2024-06-28,F656,90,Asia,Japan,Osaka,Hospital
+2024-06-29,G757,110,Europe,UK,Manchester,Individual
+2024-06-30,H858,80,North America,USA,San Francisco,Pharmacy
